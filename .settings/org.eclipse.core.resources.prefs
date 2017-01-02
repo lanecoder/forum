@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//schema/sampledb.sql=GBK
+encoding//src/test/java/com/baobaotao/test/dataset/excel/MultiSchemaXlsDataSetReader.java=GBK
+encoding//src/test/java/com/baobaotao/test/dataset/util/XlsDataSetBeanFactory.java=UTF-8
